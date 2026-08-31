@@ -1,0 +1,61 @@
+[
+  {
+    "id": "10001",
+    "name": "Diskus",
+    "description": [
+      "Diskus öffnen durch Wegschieben des Daumengriffes, bis Mundstück und Hebel erscheinen.",
+      "Diskus spannen durch Wegschieben des Hebels, bis ein Klicken zu hören ist.",
+      "Langsam und entspannt ausatmen, keinesfalls in den Pulverinhalator.",
+      "Mundstück mit den Lippen fest umschließen.",
+      "Rasch, kräftig und möglichst tief einatmen.",
+      "Atem für etwa 5-10 Sekunden anhalten.",
+      "Langsam ausatmen.",
+      "Diskus schließen durch Zurückschieben des Daumengriffes.",
+      "Wenn Sie eine zweite Inhalation durchführen wollen, beginnen Sie wieder von vorne.",
+      "Ein Zählwerk zeigt genau an, wie viele Medikamentendosen der Diskus noch enthält."
+    ],
+    "videoUrl": "diskus",
+    "thumbnailUrl": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_1080,h_810,q_70,fl_lossy/v1706798367/sd/uk/services-setup/asthma-unit/seretide-accuhaler/g0sqf4eivmn8egyrog5o.png",
+    "intakeTime": "täglich 8:00 Uhr"
+  },
+  {
+    "id": "10002",
+    "name": "Easyhaler",
+    "description": [
+      "Nehmen Sie den Inhalator erst aus Packung beim erstmaligen Gebrauch.",
+      "Die Schutzkappe verhindert versehentliche Betätigung.",
+      "Schütteln Sie den Easyhaler 3-5-mal zwischen Daumen und Zeigefinger.",
+      "Betätigen Sie oben, bis es ‘Klacks’ macht.",
+      "Atmen Sie aus und atmen Sie kräftig ins Mundstück ein.",
+      "Halten Sie anschließend 5 Sekunden die Luft an.",
+      "Wenn Sie mehr als eine Dosis brauchen, wiederholen Sie die Schritte 1-6.",
+      "Sobald Sie fertig sind, machen Sie die Schutzkappe wieder drauf.",
+      "Spülen den Mund aus oder putzen Sie die Zähne.",
+      "Wischen Sie mit einem trockenem Tuch Ihren Mund.",
+      "Achten Sie auf das Zählwerk. Im Fall einer roten Markierung sollten Sie sich ein neues Rezept besorgen.",
+      "Falls Ihnen ein Fehler unterläuft, klopfen Sie das Pulver aus."
+    ],
+    "videoUrl": "easyhaler",
+    "thumbnailUrl": "https://www.wehale.life/de/wissenquizzen/web/img/content/salbu-easyhaler.png",
+    "intakeTime": "täglich 8:00 Uhr"
+  },
+  {
+    "id": "10003",
+    "name": "Ellipta",
+    "description": [
+      "Schieben Sie die Schutzkappe des ELLIPTA seitlich herunter bis Sie ein Klicken hören.",
+      "Der Pulverinhalator ist jetzt für die Inhalation vorbereitet. Zur Bestätigung zählt das Zählwerk um 1 herunter.",
+      "Langsam und entspannt ausatmen, keinesfalls in den Pulverinhalator.",
+      "Mundstück mit den Lippen fest umschließen. Die Finger dürfen die Lüftungsschlitze nicht verdecken.",
+      "In einem langen, gleichmäßigem Atemzug möglichst tief einatmen.",
+      "Atem für etwa 5-10 Sekunden anhalten.",
+      "Langsam ausatmen.",
+      "Den Pulverinhalator schließen. Wenn Sie das Mundstück reinigen möchten, verwenden Sie dazu ein trockenes Tuch, bevor Sie die Schutzkappe wieder schließen.",
+      "Ein Zählwerk zeigt genau an, wie viele Medikamentendosen der ELLIPTA noch enthält. Bei jedem Öffnen der Schutzkappe zählt es um 1 herunter. Wenn weniger als 10 Dosen übrig sind, wird die Hälfte des Zählwerks rot angezeigt. Nachdem die letzte Dosis verbraucht ist, erscheint die Zahl 0. Wenn Sie die Schutzkappe danach nochmals öffnen, ändert sich die Farbanzeigen von halb rot zu völlig rot.",
+      "Wenn Sie die Schutzkappe öffnen und schließen, ohne zu inhalieren, geht diese Dosis verloren. Die verlorene Dosis verbleibt sicher im Pulverinhalator. Es ist deshalb ausgeschlossen, dass versehentlich die doppelte Dosis inhaliert wird."
+    ],
+    "videoUrl": "ellipta",
+    "thumbnailUrl": "https://5d94e0prbtgc.b-cdn.net/6jh5elbrqq19/w_831/incruse-ellipta-inhaler.png",
+    "intakeTime": "täglich 10:00 Uhr"
+  }
+]

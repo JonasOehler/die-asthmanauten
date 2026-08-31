@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Inhalation 10:00",
+    "description": "Täglich morgens inhalieren",
+    "time": "10:00",
+    "repeat": "Täglich",
+    "dosePerInhalation": 50,
+    "doseUnit": "µg",
+    "totalDose": 1000,
+    "notification": true,
+    "emailNotification": true,
+    "pushNotification": true,
+    "reminderMinutesBefore": 5,
+    "done": false
+  },
+  {
+    "id": "2",
+    "title": "Tablette einnehmen",
+    "description": "Tablette nach dem Frühstück",
+    "time": "08:30",
+    "repeat": "Täglich",
+    "dosePerInhalation": null,
+    "doseUnit": null,
+    "totalDose": null,
+    "notification": false,
+    "emailNotification": false,
+    "pushNotification": false,
+    "reminderMinutesBefore": null,
+    "done": false
+  }
+]

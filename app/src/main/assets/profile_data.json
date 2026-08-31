@@ -1,0 +1,11 @@
+{
+  "fullName": "Max Musterfrau",
+  "email": "max.musterfrau@example.com",
+  "birthDate": "01.01.1990",
+  "phoneNumber": "0123 456789",
+  "asthmaType": "Allergisches Asthma",
+  "actScore": "21 Punkte (gut kontrolliert)",
+  "peakFlow": "420 L/min am 28.06.2025",
+  "inhaler": "Symbicort Turbohaler",
+  "reminders": "Aktiv"
+}

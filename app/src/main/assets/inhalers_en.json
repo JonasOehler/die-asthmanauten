@@ -1,0 +1,61 @@
+[
+  {
+    "id": "10001",
+    "name": "Diskus",
+    "description": [
+      "Open the Diskus by sliding the thumb grip until the mouthpiece and lever appear.",
+      "Prepare the Diskus by sliding the lever until you hear a click.",
+      "Breathe out slowly and calmly – never into the powder inhaler.",
+      "Place the mouthpiece firmly between your lips.",
+      "Inhale quickly, forcefully, and as deeply as possible.",
+      "Hold your breath for about 5–10 seconds.",
+      "Breathe out slowly.",
+      "Close the Diskus by sliding the thumb grip back.",
+      "If you need a second inhalation, start again from step 1.",
+      "A dose counter clearly shows how many doses of medication remain in the Diskus."
+    ],
+    "videoUrl": "diskus",
+    "thumbnailUrl": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_1080,h_810,q_70,fl_lossy/v1706798367/sd/uk/services-setup/asthma-unit/seretide-accuhaler/g0sqf4eivmn8egyrog5o.png",
+    "intakeTime": "daily at 8:00 AM"
+  },
+  {
+    "id": "10002",
+    "name": "Easyhaler",
+    "description": [
+      "Only remove the inhaler from the packaging for first-time use.",
+      "The protective cap prevents accidental activation.",
+      "Shake the Easyhaler 3–5 times between your thumb and index finger.",
+      "Press the top until you hear a 'click'.",
+      "Exhale, then inhale forcefully through the mouthpiece.",
+      "Hold your breath for 5 seconds.",
+      "If more than one dose is needed, repeat steps 1–6.",
+      "Once finished, put the protective cap back on.",
+      "Rinse your mouth or brush your teeth.",
+      "Wipe your mouth with a dry tissue.",
+      "Monitor the dose counter. If a red mark appears, get a new prescription.",
+      "If you make a mistake, tap the powder out of the device."
+    ],
+    "videoUrl": "easyhaler",
+    "thumbnailUrl": "https://www.wehale.life/de/wissenquizzen/web/img/content/salbu-easyhaler.png",
+    "intakeTime": "daily at 8:00 AM"
+  },
+  {
+    "id": "10003",
+    "name": "Ellipta",
+    "description": [
+      "Slide the cover of the ELLIPTA to the side until you hear a click.",
+      "The powder inhaler is now ready for use. The dose counter decreases by 1 to confirm.",
+      "Breathe out slowly and calmly – never into the powder inhaler.",
+      "Place the mouthpiece firmly between your lips. Do not block the air vents with your fingers.",
+      "Inhale deeply in one long, steady breath.",
+      "Hold your breath for about 5–10 seconds.",
+      "Breathe out slowly.",
+      "Close the inhaler. To clean the mouthpiece, use a dry cloth before closing the cover.",
+      "A dose counter shows how many doses remain. It counts down by one each time you open the cover. When fewer than 10 doses are left, part of the counter turns red. After the last dose, it displays 0. If opened again, the red area becomes fully red.",
+      "If you open and close the cover without inhaling, the dose is lost but remains safely in the device, preventing accidental double dosing."
+    ],
+    "videoUrl": "ellipta",
+    "thumbnailUrl": "https://5d94e0prbtgc.b-cdn.net/6jh5elbrqq19/w_831/incruse-ellipta-inhaler.png",
+    "intakeTime": "daily at 10:00 AM"
+  }
+]

@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">AsthmaApp</string>
+    <string name="overview_title">Overview</string>
+    <string name="medication_title">Medication</string>
+    <string name="protocol_title">Protocol</string>
+    <string name="forecast_title">Forecast</string>
+    <string name="inhaler_list_title">Inhalers</string>
+    <string name="prepare_inhaler_title">Prepare inhaler</string>
+    <string name="inhaler_not_found">Inhaler not found!</string>
+    <string name="diary">Diary</string>
+    <string name="search_diary">Search Diary</string>
+    <string name="new_entry">New entry</string>
+    <string name="may">May</string>
+    <string name="peak_flow">Peak Flow</string>
+    <string name="search_peak_flow">Search Peak Flow</string>
+    <string name="pef_measurement">PEF measurement</string>
+    <string name="last_result">Last result from 24.05.2025:</string>
+    <string name="critical">Critical</string>
+    <string name="act">ACT</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="date_today">24.05.2025</string>
+    <string name="day_after_tomorrow">27.05.2025</string>
+    <string name="pollen_level">Pollen Level</string>
+    <string name="berlin">Berlin</string>
+    <string name="select_pollen">Select Pollen</string>
+    <string name="jump_to_date">Jump to Date</string>
+    <string name="new_measurement">New Measurement</string>
+    <string name="pef_value">PEF Value:</string>
+    <string name="l_min">l/min</string>
+    <string name="tap_symptoms">Tap the symptoms that apply:</string>
+    <string name="cough">Cough</string>
+    <string name="sob">Shortness of Breath</string>
+    <string name="phlegm">Phlegm</string>
+    <string name="symptoms_meaning_info">What do these symptoms mean?</string>
+    <string name="done">Done</string>
+    <string name="act_title_bad_result">Your asthma symptoms may not be as well controlled as they could be.</string>
+    <string name="act_body_bad_result">If you have reached a maximum of 15 points, your asthma may be very poorly controlled. Please contact your doctor immediately. You and your doctor may have other options to control your asthma symptoms</string>
+    <string name="act_title_neutral_result">Your asthma may be partially controlled.</string>
+    <string name="act_body_neutral_result">With a score between 16 and 19 points, your asthma control could be improved. We recommend discussing these results with your doctor to review your current treatment plan and explore ways to achieve better control.</string>
+
+    <string name="act_title_good_result">Your asthma appears to be well controlled!</string>
+    <string name="act_body_good_result">Congratulations! A score of 20 to 25 points indicates good asthma control. Continue to follow your current treatment plan and monitor your symptoms regularly. If you have any new concerns, always consult your doctor.</string>
+<string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save_result">Save result</string>
+    <string name="video_not_available">Video not available!</string>
+    <string name="scan_barcode_title">Scan Barcode</string>
+    <string name="flash_button_description">Toggle flash</string>
+    <string name="back_button_description">Back</string>
+    <string name="image_button_description">Upload image</string>
+    <string name="camera_permission_text">Waiting for camera permission</string>
+    <string name="scanned_barcode_text">Scanned:</string>
+    <string name="account_button_description">Open accountsettings</string>
+    <string name="add_inhaler">Add Inhaler</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="search_inhaler_title">Search Inhaler</string>
+    <string name="search_inhaler_subtitle">Enter the inhalers name and select from the list to view inhalation instructions.</string>
+    <string name="search_medication_title">Search Medication</string>
+    <string name="search_medication_subtitle">Enter the medications name and select from the list.</string>
+    <string name="scan_inhaler_subtitle">Use the camera to scan the QR code for inhalation instructions.</string>
+    <string name="scan_medication_subtitle">Use the camera to scan the barcode on your medication package.</string>
+    <string name="act_question_1">In the past 4 weeks, how often did your asthma prevent you from getting as much done at work, school/university, or home as usual?</string>
+    <string name="act_question_2">In the past 4 weeks, how often have you experienced shortness of breath?</string>
+    <string name="act_question_3">In the past 4 weeks, how often did your asthma symptoms (wheezing, coughing, shortness of breath, chest tightness or pain) wake you up at night or earlier than usual in the morning?</string>
+    <string name="act_question_4">In the past 4 weeks, how often did you use your quick-relief inhaler (spray, nebulizer, such as salbutamol)?</string>
+    <string name="act_question_5">In the past 4 weeks, how well was your asthma controlled?</string>
+    <string name="act_questionnaire_title">Question</string>
+    <string name="act_q1_option_1">Always</string>
+    <string name="act_q1_option_2">Often</string>
+    <string name="act_q1_option_3">Sometimes</string>
+    <string name="act_q1_option_4">Rarely</string>
+    <string name="act_q1_option_5">Never</string>
+
+    <!-- Question 2 Options -->
+    <string name="act_q2_option_1">Always</string>
+    <string name="act_q2_option_2">Often</string>
+    <string name="act_q2_option_3">Sometimes</string>
+    <string name="act_q2_option_4">Rarely</string>
+    <string name="act_q2_option_5">Never</string>
+
+    <!-- Question 3 Options -->
+    <string name="act_q3_option_1">Always</string>
+    <string name="act_q3_option_2">Often</string>
+    <string name="act_q3_option_3">Sometimes</string>
+    <string name="act_q3_option_4">Rarely</string>
+    <string name="act_q3_option_5">Never</string>
+
+    <!-- Question 4 Options -->
+    <string name="act_q4_option_1">Never</string>
+    <string name="act_q4_option_2">Often</string>
+    <string name="act_q4_option_3">Sometimes</string>
+    <string name="act_q4_option_4">Rarely</string>
+    <string name="act_q4_option_5">Never</string>
+
+    <!-- Question 5 Options -->
+    <string name="act_q5_option_1">Not at all well controlled</string>
+    <string name="act_q5_option_2">Poorly controlled</string>
+    <string name="act_q5_option_3">Moderately controlled</string>
+    <string name="act_q5_option_4">Well controlled</string>
+    <string name="act_q5_option_5">Completely controlled</string>
+
+    <string name="air_pollution">Air pollution</string>
+    <string name="air_pollution_info">More information about US AQI...</string>
+    <string name="good">Good</string>
+
+    <!-- POLLEN -->
+    <string name="no_pollen">No pollen</string>
+    <string name="low_pollen_count">Low pollen count</string>
+    <string name="moderate_pollen_count">Moderate pollen count</string>
+    <string name="high_pollen_count">High pollen count</string>
+
+    <string name="all_pollens">All Pollens</string>
+    <string name="ragweed">Ragweed</string>
+    <string name="sorrel">Sorrel</string>
+    <string name="mugwort">Mugwort</string>
+    <string name="birch">Birch</string>
+    <string name="beech">Beech</string>
+    <string name="oak">Oak</string>
+    <string name="alder">Alder</string>
+    <string name="ash">Ash</string>
+    <string name="grasses">Grasses</string>
+    <string name="hazel">Hazel</string>
+    <string name="poplar">Poplar</string>
+    <string name="rye">Rye</string>
+    <string name="elm">Elm</string>
+    <string name="plantain">Plantain</string>
+    <string name="willow">Willow</string>
+</resources>

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20001",
+    "name": "AZELASTINE/Fluticasone AL",
+    "dosageForm": "Nasal spray 137/50μg/spray",
+    "thumbnailUrl": "https://www.ratiopharm.de/assets/products/de/packpic/Azelastin_Fluticason_rtp_Nasenspray_OP1_3D_Web_hoch_rechts_clean_18337332.png",
+    "intakeTime": "daily at 8:00 AM"
+  },
+  {
+    "id": "20002",
+    "name": "MONTELUKAST-1A Pharma 10 mg",
+    "dosageForm": "Film-coated tablets",
+    "thumbnailUrl": "https://das.docmorris.de/catalog/images/ix/ps420r/09731863-5.jpg",
+    "intakeTime": "daily at 10:00 AM"
+  }
+]
