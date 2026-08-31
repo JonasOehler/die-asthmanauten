@@ -25,7 +25,7 @@ The App is known to run on
 ### Clone the Repository
 
 ```bash
-git clone https://gitlab.mi.hdm-stuttgart.de/idp/ss25/die-asthmanauten.git
+https://github.com/JonasOehler/die-asthmanauten.git
 cd your-repo
 ```
 
